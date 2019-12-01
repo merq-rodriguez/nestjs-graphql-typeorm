@@ -1,0 +1,11 @@
+{
+  "type": "postgres",
+  "host": "localhost",
+  "port": 54320,
+  "username": "invited",
+  "password": "1234",
+  "database": "graphqldb",
+  "entities": ["dist/**/*.entity.js"],
+  "synchronize": true,
+  "logging": true
+}
